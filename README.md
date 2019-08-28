@@ -2,7 +2,7 @@
 <body>
 	<h1>FFXIV The Rising 2019 Messages</h1>
 	<p>A collection of the bottled messages found in Final Fantasy XIV's "The Rising" event from August of 2019.</p>
-	<p>There are three different sizes of bottle you can choose between, each of which seems to randomly contain one of five messages.</p>
+	<p>There are three different sizes of bottle you can choose between, each of which seems to randomly contain one of <del>five</del> six!? or more? messages.</p>
 	<p>
 		The Small bottle contains messages from characters inside the game. <br>
 		The Medium bottle contains messages from game staff, such as sound, music and outfit designers.<br>
